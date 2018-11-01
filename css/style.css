@@ -1,0 +1,15 @@
+.main{
+	height: 815px;
+	overflow-y: auto;
+}
+
+footer{
+	background-color: #F8F9FA;
+	height: 65px;
+}
+
+footer p{
+	margin-top: 20px;
+	float: right;
+	color: black;
+}
